@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArraysFunctions", "ArraysFunctions\ArraysFunctions.vcxproj", "{15A3BE1B-945C-4A4B-BC69-627ADDA5290F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A3BE1B-945C-4A4B-BC69-627ADDA5290F}.Debug|x64.ActiveCfg = Debug|x64
+		{15A3BE1B-945C-4A4B-BC69-627ADDA5290F}.Debug|x64.Build.0 = Debug|x64
+		{15A3BE1B-945C-4A4B-BC69-627ADDA5290F}.Debug|x86.ActiveCfg = Debug|Win32
+		{15A3BE1B-945C-4A4B-BC69-627ADDA5290F}.Debug|x86.Build.0 = Debug|Win32
+		{15A3BE1B-945C-4A4B-BC69-627ADDA5290F}.Release|x64.ActiveCfg = Release|x64
+		{15A3BE1B-945C-4A4B-BC69-627ADDA5290F}.Release|x64.Build.0 = Release|x64
+		{15A3BE1B-945C-4A4B-BC69-627ADDA5290F}.Release|x86.ActiveCfg = Release|Win32
+		{15A3BE1B-945C-4A4B-BC69-627ADDA5290F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BB94B7A-5629-48C2-8B62-0F0E2783C859}
+	EndGlobalSection
+EndGlobal
