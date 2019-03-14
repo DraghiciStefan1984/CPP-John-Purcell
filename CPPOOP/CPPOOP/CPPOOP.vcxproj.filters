@@ -24,6 +24,9 @@
     <ClInclude Include="Cat.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="AbstractClass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
