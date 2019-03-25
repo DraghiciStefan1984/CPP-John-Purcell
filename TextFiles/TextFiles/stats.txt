@@ -1,0 +1,2 @@
+UK population: 64000000
+France population: 100000000
